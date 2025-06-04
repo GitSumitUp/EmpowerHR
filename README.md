@@ -1,6 +1,6 @@
 # EmpowerHR: A Modern Employee Management System
 
-**EmpowerHR** is an employee management solution built with Angular and Spring Boot, using HeildiSQL as the database. It is designed to help organizations manage employee records, track performance, and simplify onboarding—all in a clear and effective way.
+**EmpowerHR** is an employee management solution built with Angular and Spring Boot, using HeildiSQL as the database. It is designed to help organizations manage employee records, track performance, and simplify onboarding all in a clear and effective way.
 
 ## Key Features
 - **Employee Records:** Easily add, update, and view employee information.
@@ -19,6 +19,6 @@ EmpowerHR brings clarity and ease to HR management. By focusing on the core need
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/EmpowerHR.git
+   git clone https://github.com/GitSumitUp/EmpowerHR.git  
    cd EmpowerHR
 
